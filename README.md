@@ -3,7 +3,9 @@ a simple python script for keystone correction in images
 ## Usage :
 1) starting from the top left-hand and going clockwise, click the four corners of the ROI
 2) the image will be automatically cropped, corrected, and saved as fixed_image.jpg
-EXAMPLE IMAGES
+   
+![Example]([example.png])
+
 ## Requirements :
 - python 3.xx
 - numpy
