@@ -24,3 +24,4 @@ Output image after correction
 -  zoom function for better cusor placement
 -  more flexible ROI selection (starting from any corner)
 -  general optimisation / decluttering
+-  scale large images so they fit on screen
